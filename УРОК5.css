@@ -1,0 +1,19 @@
+.nuvigeihe {
+list-style: none;
+margin: 0;	
+}
+.nuvigeihe li{
+	text-transform: uppercase;
+
+}
+.avatar{
+	border-radius: 20px;
+}
+.kahestva{
+	list-style: square;
+}
+.gorod{
+	border:5px solid #002699 ;
+	width: 200px;
+	height: 150px
+}

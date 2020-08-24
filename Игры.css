@@ -1,0 +1,51 @@
+img {
+	width: 300px;
+	height: 300px;
+	vertical-align: top;
+}
+div {
+	display: inline-block;
+	background-color: aliceblue;
+	border:4px black solid;
+	width: 400px;
+	height: 400px;
+	margin: 5px;
+	text-align: center;
+
+
+
+
+}
+.doom {
+	background-color: red;
+}
+.csgo {
+	background-color: gray;
+}
+.hollo {
+	background-color: #00BFFF;
+}
+.mk {
+	background-color: #FF4500;
+}
+.gta {
+	background-color: #BDB76B;
+}
+.nfs {
+	background-color: #8A2BE2;
+}
+.bl3 {
+	background-color: #F5DEB3;
+}
+.fortnite {
+	background-color: #90EE90; 
+}
+.valarent {
+	background-color: #808080;
+}
+a {
+	text-decoration: none;
+	font-size: 18px;
+	width: 100px;
+	color: #000000;
+}
